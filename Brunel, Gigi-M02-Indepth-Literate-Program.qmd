@@ -1,0 +1,41 @@
+---
+title: "M02-Introduction to Data Science in R-Reflection"
+author: "Gigi Brunel"
+format: html
+editor: visual
+theme: minty
+---
+
+# Reflection
+
+## Summarize the video presentation about the reproducibility crisis.
+
+The reproducibility crisis happens when research, data, or analyses cannot be recreated because important information is missing. In the past, data was often stored in spreadsheets, documents, or files that were not properly organized or documented. As a result, when someone tries to reproduce the same work years later, the data may be inaccessible, files may not open correctly, or important documents may be missing. Another major issue is the lack of README files and documentation that explain what the code does and how the project is organized. Without proper documentation, it becomes difficult for others to understand or reproduce the work.
+
+### Summarize the new things you learned in this module about reproducible data science and literate coding.
+
+One of the most valuable things I learned was how Git and GitHub support reproducible data science. They make it easier to organize projects, document changes, and collaborate with others. GitHub allows users to access previous versions of their work, create separate branches for experimentation, and merge changes back into the main project. I also learned that literate coding combines code, explanations, and results into a single document, making analyses easier to understand and reproduce.
+
+### What do you think about the reproducible crisis in your field? How can Quarto help address the concerns you have about reproducibility in your line of work?
+
+The reproducibility crisis can affect any field that relies on data and analysis. If files are poorly organized or documentation is missing, it becomes difficult to verify results or repeat the same process in the future. Quarto helps address these concerns by allowing users to combine code, outputs, and written explanations into a single document. Because everything is stored together, other users can understand exactly how the results were produced and can reproduce the analysis themselves.
+
+## Do you see yourself using Quarto every day for your job or studies, such as taking notes in class or preparing a presentation?
+
+I can definitely see myself using Quarto for taking notes during class and documenting projects. Whenever I learn a new coding concept, I can write step-by-step explanations of what the code does, include examples, and record useful tips for future reference. Quarto could also be helpful for preparing reports and presentations because it combines professional formatting with executable code.
+
+## Summarize what you learned in this module about the Tidyverse ecosystem in R. What can you do with R?
+
+The Tidyverse ecosystem is one of the most important parts of working with R. It provides tools that make data cleaning, manipulation, and visualization much easier. Using packages such as dplyr and ggplot2, users can transform data into tidy formats, create informative visualizations, and perform data analysis efficiently. R can be used to clean data, create tables and graphs, generate reports, and communicate results in a clear and professional manner. It also supports importing and exporting data from many different sources.
+
+## Refer to the video introducing the top 20 packages. Among the various packages introduced, choose two packages beyond the Tidyverse ecosystem, base R, and Quarto that could enhance your job/career. Tell me why you think so. 
+
+Two packages that could enhance my career are Esquisse and Shiny.
+
+1.  Esquisse is useful because it provides a user friendly interface for making data visualizations with ggplot2. It allows users to build charts and graphs through a drag-and-drop environment while automatically generating the corresponding R code. This makes it easier to learn data visualization techniques and quickly create professional looking graphics for reports and presentations.
+
+2.  Shiny is great because it allows users to create interactive web applications directly from R. Instead of sharing static reports, users can build dashboards that allow others to explore data and interact with visualizations. This would be especially useful in marketing and business analytics, where presenting insights to clients or decision-makers is an important part of the job.
+
+## Refer to the debate on R vs. Python. What is your take on this debate? 
+
+I believe both R and Python are valuable programming languages, and learning both provides the greatest advantage. Python is widely used across many industries and can be applied to web development, software engineering, automation, artificial intelligence, and data science. Because of its versatility and popularity, it is an important language to learn. R, was specifically designed for statistical analysis and data science. It offers powerful tools for data visualization, reporting, and statistical modeling. While Python has a broader range of applications, R often provides more specialized tools for data analysis. Ultimately, the choice between R and Python depends on the goals of the project. In many situations, knowing both languages allows users to take advantage of the strengths of each.
